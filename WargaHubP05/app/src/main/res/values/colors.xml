@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="p05_navy">#122847</color>
+  <color name="p05_slate">#40516A</color>
+  <color name="p05_page">#F2F7FB</color>
+  <color name="p05_white">#FFFFFF</color>
+  <color name="p05_accent">#0D8EAC</color>
+  <color name="p05_pill">#DCEEF4</color>
+</resources>
